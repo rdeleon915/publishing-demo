@@ -1,0 +1,49 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'roboto', sans-serif;
+    background-color: #EDE04A;
+}
+
+.background-text-box {
+    /*ORANGE*/
+    background-color: #FFFDE5;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.caption-text-box {
+    color: gray;
+}
+
+p {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-size: 1em;
+}
+
+li {
+    font-family: 'Georgia', serif;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-size: 1em;
+}
+
+hi {
+    font-family: 'Georgia', serif;
+}
+
+p {
+    font-family: 'Georgia', serif;
+}
+
+h6 {
+    font-family: 'Georgia', serif;
+    background-color: #BAF8F6;
+}

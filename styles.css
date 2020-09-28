@@ -5,6 +5,10 @@ body {
     background-color: #EDE04A;
 }
 
+figure {
+    align-items: baseline;
+}
+
 .background-text-box {
     background-color: #FFFDE5;
 }

@@ -6,7 +6,7 @@ body {
 }
 
 figure {
-    align-items: baseline;
+    align-content: baseline;
 }
 
 .background-text-box {
